@@ -1,0 +1,53 @@
+body { 
+    padding-top: 110px; 
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+}
+
+.encabezado {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	margin-bottom: 2rem;
+    background: url(/images/background-map2.jpg);
+    background-size: cover;
+    background-position: center;	
+}
+
+#mapa {
+	margin-bottom: 10px;
+}
+
+.datos label {
+	font-weight: bold;
+	color: #05253A;
+}
+
+.item {
+  background-size: contain;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.titulo {
+	font-weight: bold;
+}
+
+.descripcion-corta {
+	text-align: justify; 
+	background-color: #05253A; 
+	color: white;
+	padding: 1rem;;
+
+}
+
+.main-photo {
+	box-shadow: 0 4px 8px 0 #1F1F1F, 0 6px 20px 0 #333333;
+	width: 85%;
+	max-width: 500px;
+}
+
+.boton-fb {
+    position: fixed;
+    top: 38%;
+    right: 0;
+}

@@ -1,0 +1,33 @@
+html {
+  height:100%;
+}	
+
+body { 
+	padding-top: 110px; 
+	height:100%;
+}
+
+.carousel,.carousel-inner,.carousel-item {
+	height:100%;
+}
+
+.segmento {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.articulo {
+	top: 0;
+	text-shadow: 0 1px black; 
+	overflow: scroll;
+}
+
+.articulo::-webkit-scrollbar {
+    display: none;
+}
+
+a.enlace-articulo:link { color:#FFF; text-decoration:none; font-weight:normal; }
+a.enlace-articulo:visited { color: #FFF; text-decoration:none; font-weight:normal; }
+a.enlace-articulo:hover { color: #FFF; text-decoration:underline; font-weight:normal; }
+a.enlace-articulo:active { color: #FFF; text-decoration:none; font-weight:normal; }

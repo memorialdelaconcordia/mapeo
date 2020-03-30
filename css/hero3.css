@@ -1,0 +1,25 @@
+body { 
+    padding-top: 110px; 
+}
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.carousel-caption .texto {
+	background-color: black; 
+}
+
+#mapa {
+	margin-bottom: 10px;
+}
+
+.datos label {
+	font-weight: bold;
+	color: #05253A;
+}

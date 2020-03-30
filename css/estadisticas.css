@@ -1,0 +1,17 @@
+#estadisticas{
+    margin-top: 75px;
+    width: 100%;
+}
+
+.tabla-estadisticas{
+	color: black;
+}
+
+.tabla-estadisticas table{
+	margin: auto;
+	width: 50% !important; 
+	color: black;
+}
+
+
+
